@@ -28,7 +28,7 @@ namespace Module_4
         {
             InitializeComponent();
             ApiService = new ApiService();
-            TestCount = 0;
+            TestCount = 1;
         }
 
         private async void GetDataAcyncClick(object sender, RoutedEventArgs e)
